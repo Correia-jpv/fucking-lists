@@ -258,6 +258,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [Facets](https://github.com/O-I/Facets) – One-liners in Ruby
 * [fks](https://github.com/JacksonTian/fks) _In Chinese_ – Frontend Knowledge Structure.
 * [flat-file-cms](https://github.com/ahadb/flat-file-cms) – Stictly flat-file cms systems.
+* [fmhy/edit](https://github.com/fmhy/edit) – The largest collection of free stuff on the internet.
+  - https://fmhy.net/
 * [forced-alignment-tools](https://github.com/pettarin/forced-alignment-tools) – Forced alignment (synchronization of speech with text)
 * [FOSS-for-Dev](https://github.com/tvvocold/FOSS-for-Dev) – Free and open-source software for developers
 * [foss_photo_libraries](https://github.com/meichthys/foss_photo_libraries) – Free and Open Source Photo Libraries.
